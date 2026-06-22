@@ -111,9 +111,17 @@ _A dedicated AI-PBL platform supporting students in self-directed AI learning th
 
 ## 教学理念 | Teaching Philosophy
 
-不看排行榜，自己动手做裁判。从评测到部署，从软件到硬件，从样机到量产——学生走通完整工程链路。
+**AI辅助学习** · 代码和专业知识由AI辅助生成，学生聚焦于Prompt工程、调试和部署，在实践中掌握核心技能。
+**极简硬件** · 不涉及电路设计和焊接，硬件即插即用，降低入局门槛，让创造成为核心。
+**每日一产品** · 每天交付一个可演示、可带走的产品原型，保持持续的正反馈和成就感。
+**教练引导** · 老师作为总教练，提供标准套件、设定挑战目标，学生利用AI自行探索并解决问题。
+**云边协同** · 从千帆Agent平台到本地硬件，走通AI模型在真实设备上部署运行的全链路。
 
-_Don't read leaderboards — be your own judge. From evaluation to deployment, from software to hardware, from prototype to production — students complete the full engineering chain._
+_AI-Assisted Learning · Code and knowledge are AI-generated; students focus on prompt engineering, debugging, and deployment to master skills through practice._
+_Minimal Hardware · Plug-and-play hardware, no soldering or circuit design — lower the barrier and let creation take center stage._
+_Daily Product · A demonstrable prototype every day, building momentum through continuous delivery._
+_Coach-Guided · Instructors set challenges and provide kits; students use AI to explore and solve problems independently._
+_Cloud-Edge Synergy · From the Qianfan Agent platform to local hardware, complete the full chain of deploying AI models on real devices._
 
 ---
 
