@@ -29,14 +29,13 @@ _The **Domestic AI Makers Summer Camp** is among the first courses under this fr
 
 ## 项目仓库 | Course Repositories
 
-| Phase | 主题 | 课时 | 主要产出 |
+| Phase | 主题 | 课时 | Repository |
 |---|---|---|---|
-| **Phase 01** | 国产人工智能技术基础 · 掌上AI创造引擎 | 6天 | Agent"随身龙虾" + 3D模型 |
-| **Phase 02** | 新型硬件设计 · 智能造物全链路 | 4天 | 3D打印潮玩 + CNC雕刻大师作品 + Arduino Demo |
-| **Phase 03** | 基础项目 · 环境感知 · 机器感官即插即用 | 5天 | 感知设备 + 声音控制灯 + 专属决策终端 |
-| **Phase 04** | 进阶项目 · 触觉反馈集成 · 触觉交互超现实 | 5天 | 触摸菜单 + 智能灯带 + 智能小车 |
-| **Phase 05** | 创新项目 · 具身智能控制 · 我的AI机器人创造营 | — | AI Desk-Companion Bot |
-
+| **Phase 01** | 国产人工智能技术基础 · 掌上AI创造引擎 | 6天 | [domestic-ai-makers-pbl-phase1](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase1) |
+| **Phase 02** | 新型硬件设计 · 智能造物全链路 | 4天 | [domestic-ai-makers-pbl-phase2](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase2) |
+| **Phase 03** | 基础项目 · 环境感知 · 机器感官即插即用 | 5天 | [domestic-ai-makers-pbl-phase3](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase3) |
+| **Phase 04** | 进阶项目 · 触觉反馈集成 · 触觉交互超现实 | 5天 | [domestic-ai-makers-pbl-phase4](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase4) |
+| **Phase 05** | 创新项目 · 具身智能控制 · 我的AI机器人创造营 | — | [domestic-ai-makers-pbl-phase5](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase5) |
 
 ## 怎么开始 | How to Start
 
