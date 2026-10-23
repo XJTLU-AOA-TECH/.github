@@ -1,24 +1,30 @@
-# AI for Research, Engineering & Education
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XJTLU-AOA-TECH/.github/main/profile/assets/praxis-mark.png" width="104" height="104" alt="Praxis Lab 图标：相扣路径构成的P" />
+</p>
 
-**研究、构建、验证、分享。**
-*Research. Build. Verify. Share.*
+<h1 align="center">Praxis Lab · 知行实验室</h1>
 
-这里汇集我们在西交利物浦大学开展的AI工程、科研工作流与项目制学习资料。我们从真实问题出发，构建可验证的系统，再把交付过程沉淀为工具、案例和可复用的方法。
+<p align="center">
+  <strong>从真实问题出发，让实践产生知识。</strong><br />
+  <em>Turning real-world practice into knowledge.</em>
+</p>
 
-We work on applied AI engineering, research workflows and project-based learning at Xi’an Jiaotong-Liverpool University. This space brings together practical tools, learning materials and methods developed through real projects.
+Praxis Lab关注智能技术如何进入真实场景、产生可验证的结果，并从实践中形成新的知识。这里汇集我们在西交利物浦大学开展的AI工程、科研工作流与项目制学习资料，把交付过程沉淀为工具、案例和可复用的方法。
+
+Praxis Lab connects applied intelligence, research and learning through real-world practice. This space brings together tools, workflows and learning materials developed through our work at Xi’an Jiaotong-Liverpool University.
 
 ## 我们在做什么 · Areas of work
 
-**AI工程与研究转化**
+### AI工程与研究转化
 围绕真实业务组织需求、数据、模型和工具，把系统实现、验证与运行衔接起来。近期工作涵盖技术转化场景的Agent应用与工程交付。
 
-**AI4Science与科研工作流**
+### AI4Science与科研工作流
 探索从研究问题、数据和分析到可复现结果的协作方式，关注来源、权限、验证与研究过程留痕。相关项目仍在持续验证中。
 
-**方法与可复用工具**
+### 方法与可复用工具
 迭代Lean SDD交付方法，把意图、规格、执行与证据连接起来；从实际工作中提取可复用Skill。方法配套工具包仍处于设计与验证阶段。
 
-**项目制学习与实践训练**
+### 项目制学习与实践训练
 让学习者在真实任务中完成模型选择、Agent构建、硬件接入与工程验证，把项目经验转成可操作的学习材料。
 
 ## 公开工具与课程 · Public resources
