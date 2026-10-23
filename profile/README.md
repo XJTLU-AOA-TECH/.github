@@ -1,47 +1,48 @@
-# XJTLU AOA TECH
+# AI for Research, Engineering & Education
 
-**国产AI动手派暑期实训营 · Capability Clusters 首批课程**
-_Domestic AI Makers Summer Camp · Inaugural Capability Clusters Course_
+**研究、构建、验证、分享。**
+*Research. Build. Verify. Share.*
+
+这里汇集我们在西交利物浦大学开展的AI工程、科研工作流与项目制学习资料。我们从真实问题出发，构建可验证的系统，再把交付过程沉淀为工具、案例和可复用的方法。
+
+We work on applied AI engineering, research workflows and project-based learning at Xi’an Jiaotong-Liverpool University. This space brings together practical tools, learning materials and methods developed through real projects.
+
+## 我们在做什么 · Areas of work
+
+**AI工程与研究转化**
+围绕真实业务组织需求、数据、模型和工具，把系统实现、验证与运行衔接起来。近期工作涵盖技术转化场景的Agent应用与工程交付。
+
+**AI4Science与科研工作流**
+探索从研究问题、数据和分析到可复现结果的协作方式，关注来源、权限、验证与研究过程留痕。相关项目仍在持续验证中。
+
+**方法与可复用工具**
+迭代Lean SDD交付方法，把意图、规格、执行与证据连接起来；从实际工作中提取可复用Skill。方法配套工具包仍处于设计与验证阶段。
+
+**项目制学习与实践训练**
+让学习者在真实任务中完成模型选择、Agent构建、硬件接入与工程验证，把项目经验转成可操作的学习材料。
+
+## 公开工具与课程 · Public resources
+
+| 从哪里开始 | 你能找到什么 |
+| --- | --- |
+| [Arsenal · 实用Skill](https://github.com/XJTLU-AOA-TECH/arsenal) | 从实际工作中提取的工具；当前公开包含xipu-press文档排版Skill |
+| [Phase 1 · 模型到设备Agent](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase1) | 模型评测与路由、能力模块、桌面Agent、设备接入 |
+| [Phase 2 · AI辅助设计与制造](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase2) | CAD、测量迭代、制造与机器人相关实践材料 |
+| [Phase 3 · 环境感知](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase3) | 传感器、屏幕、视觉与声音、边缘AI与感知融合 |
+| [Phase 4 · 交互与反馈](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase4) | 触控、无线通信、电机与可观察的实体交互 |
+
+[浏览全部公开仓库 →](https://github.com/orgs/XJTLU-AOA-TECH/repositories?type=public)
+
+## 怎样使用与参与 · Get involved
+
+- **学习者**：从Phase 1或与你的项目相关的阶段开始，按仓库README准备环境并完成任务。
+- **工具使用者**：先读Arsenal及各Skill的适用范围与说明；使用与分发遵循相应仓库的许可证。
+- **项目协作者**：进入已获授权的项目仓库，先读README与AGENTS，再提交资料、Issue或Pull Request。
+- **反馈与贡献**：在相应公开仓库提出具体问题、使用场景或改进建议，并附可复现的信息。
+
+部分协作项目实行访问控制。本页只展示可公开的方向与资源；项目成果、开放范围和使用条件以各仓库实际说明为准。
 
 ---
 
-## 课程背景 | Background
-
-伴随着技术的快速变革和行业期望的不断变化，灵活、跨学科且注重实践的学习机会的需求愈发强烈。西交利物浦大学全新课程规划 **"Capability Clusters"**，旨在通过短周期、跨学科、产业融合的学习方式，培养学生在真实场景中的实践应用能力。
-
-本次 **国产AI动手派暑期实训营** 正是 Capability Clusters 体系下的首批课程之一，由西浦人工智能学院（Academy of AI, XJTLU）开发。本课程旨在培养学员在AI时代下，利用国产AI技术和模块化硬件，从零开始设计、制造并实现智能硬件产品原型的能力。
-
-_As technology rapidly evolves, the need for flexible, interdisciplinary, and practice-driven learning has never been greater. XJTLU's new curriculum initiative **"Capability Clusters"** delivers short-cycle, cross-disciplinary, industry-integrated learning experiences that build real-world skills._
-
-_The **Domestic AI Makers Summer Camp** is among the first courses under this framework, developed by XJTLU Academy of AI. It equips learners with the ability to design, build, and prototype smart hardware products from scratch — using domestic AI technologies and modular hardware._
-
----
-
-## 项目亮点 | Highlights
-
-- **AI驱动** · 代码、专业知识由AI辅助生成与学习，学员聚焦于提出高质量Prompt、调试和部署AI生成的代码
-- **极简硬件** · 不涉及电路设计和焊接，硬件学习简化为"认识接口、物理连接"，将其视为"乐高积木"
-- **每日一产品** · 所有产出均为可演示、可带走的产品原型（Demo），确保持续的成就感
-- **教练式教学** · 老师作为"总教练"，提供标准套件、设定挑战目标，引导学生利用AI解决问题
-- **云边协同** · 强调校内千帆Agent平台与本地硬件的深度融合
-
----
-
-## 项目仓库 | Course Repositories
-
-| Phase | 主题 | 课时 | Repository |
-|---|---|---|---|
-| **Phase 01** | 国产人工智能技术基础 · 掌上AI创造引擎 | 6天 | [domestic-ai-makers-pbl-phase1](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase1) |
-| **Phase 02** | 新型硬件设计 · 智能造物全链路 | 4天 | [domestic-ai-makers-pbl-phase2](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase2) |
-| **Phase 03** | 基础项目 · 环境感知 · 机器感官即插即用 | 5天 | [domestic-ai-makers-pbl-phase3](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase3) |
-| **Phase 04** | 进阶项目 · 触觉反馈集成 · 触觉交互超现实 | 5天 | [domestic-ai-makers-pbl-phase4](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase4) |
-| **Phase 05** | 创新项目 · 具身智能控制 · 我的AI机器人创造营 | — | [domestic-ai-makers-pbl-phase5](https://github.com/XJTLU-AOA-TECH/domestic-ai-makers-pbl-phase5) |
-
-## 怎么开始 | How to Start
-
-1. 找到你要上的 Phase 仓库，`git clone` 到本地
-2. 创建你自己的分支：`git checkout -b your-name`
-3. 每天打开对应文件夹的 `README.md`，按步骤操作
-4. `git add -A && git commit -m "Day X done" && git push`
-
-_Pick the Phase repository you're working on, clone it, create your own branch, follow the daily instructions, and commit your progress._
+[Xi’an Jiaotong-Liverpool University · 西交利物浦大学](https://www.xjtlu.edu.cn)
+Organization handle: `XJTLU-AOA-TECH` · Updated October 2026
