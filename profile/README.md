@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XJTLU-AOA-TECH/.github/main/profile/assets/fde-mark.png" width="104" height="104" alt="XJTLU FDE Lab 标识：荧光绿底 FDE 字标" />
+  <img src="https://raw.githubusercontent.com/XJTLU-AOA-TECH/.github/main/profile/assets/fde-lab-mark.png" width="104" height="104" alt="XJTLU FDE Lab 官方标识：立方体标＋FDE LAB" />
 </p>
 
 <h1 align="center">XJTLU FDE Lab</h1>
